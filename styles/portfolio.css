@@ -117,3 +117,30 @@ li a {
     font-size: 35px;
     font-weight: 700;
 }
+
+main {
+    max-width: 1140px;
+    margin: 0 auto;
+    /* justify-content: center; */
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+}
+.skills-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.about-info{
+    text-align: center;
+}
+#des{
+    padding: 30px 150px;
+}
+/* .skill{
+    background-color: rgb(249, 245, 245);
+    margin: 10px;
+    padding: 10px 20px;
+} */
