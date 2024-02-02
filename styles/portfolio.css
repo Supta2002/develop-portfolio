@@ -164,4 +164,21 @@ main section {
 
 .resume{
     display: flex;
+    gap: 50px;
+}
+.resume-des, .institute{
+    color: #757575;
+}
+.resume-sub{
+    font-size: 25px;
+    color: #474747;
+    font-weight: 700;
+}
+
+.institute{
+    font-size: 20px;
+}
+.download{
+    text-align: center;
+    margin-top: 50px;
 }
